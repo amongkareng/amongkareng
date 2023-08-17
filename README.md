@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Lemme introduce myself my name is **Andre Mongkareng**.\
+Lemme introduce myself my name is **Andre Mongkareng**.
 
 I am an university student, currently on 7th semester this year.\
 I am one of Bangkit Participant 2023 Batch 2 this year.\
